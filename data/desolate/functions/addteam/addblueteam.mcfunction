@@ -5,4 +5,3 @@ tellraw @a[scores={blue=1..}] "[团队死斗]您已加入蓝队"
 scoreboard players add blueamount teamamount 1
 scoreboard players add allamount teamamount 1
 bossbar set bluekillbossbar players @a[tag=blue]
-bossbar set redkillbossbar players @a[tag=blue]

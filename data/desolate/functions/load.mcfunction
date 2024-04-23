@@ -25,6 +25,10 @@ scoreboard players set blueamount teamamount 0
 scoreboard players set allamount teamamount 0
 scoreboard players set redkill kill 0
 scoreboard players set bluekill kill 0
+scoreboard players set time teamamount 0
+scoreboard players set time1 teamamount 0
+scoreboard players set starttime teamamount 0
+scoreboard players set endtime teamamount 0
 scoreboard players reset @a red
 scoreboard players reset @a blue
 
