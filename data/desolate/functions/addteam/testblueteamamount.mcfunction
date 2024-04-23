@@ -1,0 +1,1 @@
+execute if score blueamount teamamount matches 0..2 run function desolate:addteam/addblueteam
